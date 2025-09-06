@@ -1,0 +1,35 @@
+
+site_name: Fabula
+theme:
+  name: material
+  custom_dir: 'yaml-wiki/theme'
+  palette:
+    primary: blue
+    accent: blue
+  favicon: 'img/favicon.ico'
+  icon:
+    logo: 'material/bank'
+repo_name: 'tapanther/Fabula'
+repo_url: 'https://github.com/tapanther/Fabula'
+site_url: 'https://tapanther.github.io/Fabula/'
+
+
+
+
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - pymdownx.superfences :
+      custom_fences :
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+
+nav:
+  - Home : index.md
+  - General :
+    - Timeline : Timeline.md
+  - Categories :
+      - General : General.md
