@@ -2,60 +2,87 @@
 node : Major Powers
 template : Nation.md
 title : The Commonwealth
+altLinks :
+  - Commonwealth
 GeneralInfo :
   Statistics :
     Population : 37500000
-    Government : [Kritarchy](https://en.wikipedia.org/wiki/Kritarchy)
-    Region : TEXT
+    Government : [Directorial](https://en.wikipedia.org/wiki/Directorial_system) Mixed Oligarchy
+    Region : Lanaroth
   Ethics :
-    - LIST
-  Description : >-
-    TEXT
-  Diagram : |
-    ```
-    ```
+    - Orthodox
+    - Authoritarian
+#  Description : >-
+#    TEXT
+#  Diagram : |
+#    ```
+#    ```
 Society :
   Government : >-
-    TEXT
-  Locations:
-    NAME : >-
-      TEXT
-  Organizations:
-    NAME : >-
-      TEXT
-  Diagrams :
-    NAME : |
-      ```
-      ```
+    Superficially, the Commonwealth resembles the constitutional monarchies of its neighbors. 
+    A strong central authority directly rules over the nation, with its power both derived
+    from and limited by an uncodified constitution that is equal parts law and tradition.
+    Local governments serve at the pleasure and direction of the central government, managing
+    the day-to-day affairs of towns and cities in accordance with national edicts and laws.
+    
+    Unlike the traditional monarchies that surround it, power is not vested in a single head
+    of state or elected assembly, but rather in a three-person college known as the Supreme
+    Judicial Tribunal, tasked with preserving the Commonwealth's cultural orthodoxy and
+    entrusted with the sole authority to interpret the doctrinal intent of the nation's
+    unwritten constitution.
+#  Locations:
+#    NAME : >-
+#      TEXT
+#  Organizations:
+#    NAME : >-
+#      TEXT
+#  Diagrams :
+#    NAME : |
+#      ```
+#      ```
 Culture :
-  Description : >-
-    TEXT
+#  Description : >-
+#    TEXT
   CoreBeliefs :
-    - LIST
+    - Noblesse Oblige
+    - Idealistic Foundation
+    - Doctrinal Conformity
   Prejudices :
-    - LIST
-  Minorities :
-    - LIST
+    - Xenophobia
+    - Cultural Deviance
+    - Social Stratification
+#  Minorities :
+#    - LIST
   Values :
     - >-
-      TEXT
-  Heroes :
-    NAME : >-
-      TEXT
-  Villains :
-    NAME : >-
-      TEXT
+      Mercy is the beating heart of a truly free society. 
+      Mercy, even for the perpetrators of the darkest deeds.
+    - >-
+      A society which raises a clenched fist against its own shall surely have its own
+      raise clenched fists against society.
+    - >-
+      Your worth shall be determined by your peers, and by you, yourself. To the worthy, freedom.
+#  Heroes :
+#    NAME : >-
+#      TEXT
+#  Villains :
+#    NAME : >-
+#      TEXT
   Traditions :
     NAME : >-
       TEXT
-  Religion : >-
-    TEXT
+#  Religion : >-
+#    TEXT
 History :
   Description : >-
-    TEXT
-  Timeline :
-    -
-      Name : NAME
-      Date : YEAR
-      Description : >-
-        TEXT
+    The Commonwealth of Iska is the successor state to the Kingdom of Iska, established
+    after the decade of civil unrest that followed the death of Queen Iustina the Unjust
+    and the series of pretenders unsuccessfully warring for legitimacy.
+
+
+#  Timeline :
+#    -
+#      Name : NAME
+#      Date : YEAR
+#      Description : >-
+#        TEXT
