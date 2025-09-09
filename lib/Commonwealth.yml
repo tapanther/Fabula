@@ -1,5 +1,5 @@
 ---
-node : Major Powers
+node : Major Powers/The Commonwealth
 template : Nation.md
 title : The Commonwealth
 altLinks :
@@ -32,14 +32,25 @@ Society :
     unwritten constitution.
   Locations:
     Velia : >-
-      Capital of the Commonwealth, the city of Velia lies at the mouth of the Isen river.
+      Capital of the Commonwealth, the city of Velia lies at the mouth of the Borealan.
       Velia was the former administrative capital of Aroth, and has served as the permanent seat of
       the Iskan Kingdom and the succeeding Commonwealth. Thanks to its strategic positioning
       along the major Lanaranth trade routes, effectively controls trade between the Vedaelan and 
       Meldryn seas.
-#  Organizations:
-#    NAME : >-
-#      TEXT
+  Organizations:
+    Supreme Judicial Tribunal : >-
+      The effective ruling triumvirate of the Commonwealth. The Tribunal convenes within the
+      Great Hall of the Basilica of the Curia at the center of the city when hearing issues and
+      delivering doctrinal rulings.
+    Stratia : >-
+      The general term for all categories of state and local officials under the jurisdiction
+      of the Commonwealth and the Tribunal.
+    Syndic of the Boreal: >-
+      The _de facto_ state religion of the Commonwealth, a polytheistic and animistic belief
+      system lacking an official central authority. The Syndic revolves around supernatural
+      entities that embody all things, including forces of nature and prominent landscape
+      locations. Public shrines can be found throughout the Commonwealth and maintained by
+      volunteers from the local populace.
 #  Diagrams :
 #    NAME : |
 #      ```
@@ -73,8 +84,10 @@ Culture :
 #    NAME : >-
 #      TEXT
   Traditions :
-    NAME : >-
-      TEXT
+    The Trials of Absolution : >-
+      A semiannuial competition through which eligible outcasts may earn an official pardon
+      for their acts and return home, absolved of all prior transgressions. Only the top
+      three scoring teams are granted amnesty.
 #  Religion : >-
 #    TEXT
 History :

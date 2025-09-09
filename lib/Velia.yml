@@ -1,5 +1,5 @@
 ---
-node : Locations
+node : Settlements/The Commonwealth
 template : Location.md
 title : Velia
 GeneralInfo :
@@ -9,15 +9,32 @@ GeneralInfo :
     Population : 2362200
   Description : >-
     !!! quote "All roads..."
-        All roads lead to Aroth...
-        ... but all vessels dock at Velia.
+        _All roads lead to Aroth..._  
+        _... but all vessels dock at Velia._
     
-    Nestled at the mouth of the river Isen, Velia was formally founded in 1267 by
-    Gallienus Glycas, Basielus (King) of Aroth, on the site of the already-existing
-    city of Iscara (orig. _Iskara_).
-#Geography :
-#  Description : >-
-#    TEXT
+        \-\- _Unknown_
+    
+    Nestled at the mouth of the Borealan, Velia was formally founded in 1267 by
+    Gallienus Glycas, Basielus of Aroth, on the site of the already-existing
+    city of Iskara (Az: _Iscara_).
+    
+    
+    The city became famous for its architectural masterpieces, such as the Basilica of
+    the Curia, the Gallean Tower, the Column of Halendos, the Vedealan Forum, the Temple
+    to Hyelontos Ascendant, the Photius Lighthouse, and the Great Silver Gate of the Borea 
+    among countless Linea palaces and manors that form the city proper.
+    
+    
+    Following the collapse of Aroth, Velia remained the capital of the newly partitioned 
+    Kingdom of Iska (1413 - 2141) and the Commonwealth of Iska (2151 - Present). The city
+    today is the largest city in Lanaroth as well as its largest port and trade hub.
+Geography :
+  Description : >-
+    Straddling the Borealan Strait, Velia is well positioned to control the flow of goods to and
+    from the Vedaelan and Meldryn seas, effectively giving it a stranglehold on continental
+    trade. The reduced land area and hilly surroundings provide excellent natural
+    defenses, while also shielding the coastline from excessive winds and waves, making the
+    location a safe anchorage and a natural position for a major port.
   Features:
     Basilica of the Curia : >-
       The major cultural and historic site of Velia, seat of the Supreme Judicial Tribunal.

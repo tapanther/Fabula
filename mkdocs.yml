@@ -31,12 +31,15 @@ nav:
   - Home : index.md
   - General :
     - Timeline : Timeline.md
-  - Locations :
-    - Velia : Velia.md
   - Major Powers :
-    - Aroth : Aroth.md
-    - The Commonwealth : Commonwealth.md
+    - Basileia of Aroth :
+      - Aroth : Aroth.md
+    - The Commonwealth :
+      - The Commonwealth : Commonwealth.md
+  - Settlements :
+    - The Commonwealth :
+      - Velia : Velia.md
   - Categories :
       - General : General.md
-      - Locations : Locations.md
       - Major Powers : Major Powers.md
+      - Settlements : Settlements.md
