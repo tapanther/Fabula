@@ -1,0 +1,45 @@
+---
+node : Locations
+template : Location.md
+title : Velia
+GeneralInfo :
+  Statistics :
+    Type : Capital City
+    Region : Lanaroth
+    Population : 2362200
+  Description : >-
+    !!! quote "All roads..."
+        All roads lead to Aroth...
+        ... but all vessels dock at Velia.
+    
+    Nestled at the mouth of the river Isen, Velia was formally founded in 1267 by
+    Gallienus Glycas, Basielus (King) of Aroth, on the site of the already-existing
+    city of Iscara (orig. _Iskara_).
+#Geography :
+#  Description : >-
+#    TEXT
+  Features:
+    Basilica of the Curia : >-
+      The major cultural and historic site of Velia, seat of the Supreme Judicial Tribunal.
+      The Basilica is believed to be the largest interior space in the known world, and the
+      epitome of Iskaran architecture.
+#  Settlements:
+#    NAME : >-
+#      TEXT
+History :
+#  Description : >-
+#    TEXT
+  Timeline :
+    -
+      Name : Founding of Velia
+      Date : 1257
+      Description : >-
+        The Basileus of Aroth declares Velia the new administrative capital.
+        Construction begins on the new basilica to house the Curia of Aroth.
+    -
+      Name : Velia Consecrated
+      Date: 1263
+      Description : >-
+        Basielus Gallienus lights the ceremonial pyre at the base of the Curia
+        altar, officially transferring the Eternal Flame to the new
+        capital city.

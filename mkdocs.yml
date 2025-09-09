@@ -31,5 +31,12 @@ nav:
   - Home : index.md
   - General :
     - Timeline : Timeline.md
+  - Locations :
+    - Velia : Velia.md
+  - Major Powers :
+    - Aroth : Aroth.md
+    - The Commonwealth : Commonwealth.md
   - Categories :
       - General : General.md
+      - Locations : Locations.md
+      - Major Powers : Major Powers.md

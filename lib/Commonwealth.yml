@@ -7,7 +7,7 @@ altLinks :
 GeneralInfo :
   Statistics :
     Population : 37500000
-    Government : [Directorial](https://en.wikipedia.org/wiki/Directorial_system) Mixed Oligarchy
+    Government : '[Directorial](https://en.wikipedia.org/wiki/Directorial_system) Mixed Oligarchy'
     Region : Lanaroth
   Ethics :
     - Orthodox
@@ -30,9 +30,13 @@ Society :
     Judicial Tribunal, tasked with preserving the Commonwealth's cultural orthodoxy and
     entrusted with the sole authority to interpret the doctrinal intent of the nation's
     unwritten constitution.
-#  Locations:
-#    NAME : >-
-#      TEXT
+  Locations:
+    Velia : >-
+      Capital of the Commonwealth, the city of Velia lies at the mouth of the Isen river.
+      Velia was the former administrative capital of Aroth, and has served as the permanent seat of
+      the Iskan Kingdom and the succeeding Commonwealth. Thanks to its strategic positioning
+      along the major Lanaranth trade routes, effectively controls trade between the Vedaelan and 
+      Meldryn seas.
 #  Organizations:
 #    NAME : >-
 #      TEXT
@@ -41,8 +45,8 @@ Society :
 #      ```
 #      ```
 Culture :
-#  Description : >-
-#    TEXT
+  Description : >-
+    TBD
   CoreBeliefs :
     - Noblesse Oblige
     - Idealistic Foundation

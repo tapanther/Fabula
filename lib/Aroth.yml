@@ -1,0 +1,76 @@
+---
+node : Major Powers
+template : Nation.md
+title : Aroth
+GeneralInfo :
+  Statistics :
+    Population : 22400000
+    Government : Constitutional Monarchy
+    Region : Lanaroth
+  Ethics :
+    - Spiritualist
+    - Militarist
+  AddInfo :
+    Arothization : >-
+      Due to Aroth's historical dominance over Lanaroth, it is common to see transliterations (letter-mapping)
+      or transcriptions (sound-mapping) of text from various nations and languages to their Arothian equivalents.
+      
+      
+      Notable conventions have emerged, such as the voiceless velar plosive `[k]` written as `c` (e.g., Iska -> Isca),
+      while the voiceless alveolar fricative `[s]` is often converted to `s` (e.g., Taureucia -> Toresia) to 
+      disambiguate the two.
+      
+      
+      Owing to the difficulties encountered in transliterating and transcribing both ancient and modern texts
+      to standard Arothian graphemes, a number of proposed schemes have been put forth by scholars throughout
+      Lanaroth, the most common of which is reproduced in the page for Arothization Tables.
+#  Description : >-
+#    TEXT
+#  Diagram : |
+#    ```
+#    ```
+#Society :
+#  Government : >-
+#    TEXT
+#  Locations:
+#    NAME : >-
+#      TEXT
+#  Organizations:
+#    NAME : >-
+#      TEXT
+#  Diagrams :
+#    NAME : |
+#      ```
+#      ```
+#Culture :
+#  Description : >-
+#    TEXT
+#  CoreBeliefs :
+#    - LIST
+#  Prejudices :
+#    - LIST
+#  Minorities :
+#    - LIST
+#  Values :
+#    - >-
+#      TEXT
+#  Heroes :
+#    NAME : >-
+#      TEXT
+#  Villains :
+#    NAME : >-
+#      TEXT
+#  Traditions :
+#    NAME : >-
+#      TEXT
+#  Religion : >-
+#    TEXT
+#History :
+#  Description : >-
+#    TEXT
+#  Timeline :
+#    -
+#      Name : NAME
+#      Date : YEAR
+#      Description : >-
+#        TEXT
