@@ -1,7 +1,9 @@
 ---
 node : Major Powers/Basileia of Aroth
 template : Nation.md
-title : Aroth
+title : Basilea of Aroth
+altLinks:
+  - Aroth
 GeneralInfo :
   Statistics :
     Population : 22400000
@@ -24,29 +26,65 @@ GeneralInfo :
       Owing to the difficulties encountered in transliterating and transcribing both ancient and modern texts
       to standard Arothian graphemes, a number of proposed schemes have been put forth by scholars throughout
       Lanaroth, the most common of which is reproduced in the page for Arothization Tables.
-#  Description : >-
-#    TEXT
+  Description : >-
+    The Basilea of Aroth is the single most influential nation-state in the history of the continent, whose name
+    literally means "The Lands of Aroth". The Basilea's borders once spanned some estimated 5 million square
+    kilometers across three continents, ruling over some 60 million people at it's height.
+    
+    
+    Elements of Arothian culture can be found across the nations of Lanaroth, from borrowed words and spellings
+    to full on adoption of the Arothian identity as a point of national pride, with several partitioned kingdoms
+    throughout history claiming the title of the true successor state to the Basilea.
+    
+    
+    The modern-day Basilea of Aroth, which encompasses the region surrounding the City of Aroth proper and the
+    Vinovian countryside, is considered by many a separate entity from the empire that ruled the continent, as
+    the political and social centers of the empire had moved several times before the widely agreed-upon end of
+    the empire in 1425. The ancient city still remains to many the symbol of the dead empire with which it shares
+    a name.
 #  Diagram : |
 #    ```
 #    ```
-#Society :
-#  Government : >-
-#    TEXT
-#  Locations:
-#    NAME : >-
-#      TEXT
-#  Organizations:
-#    NAME : >-
-#      TEXT
+Society :
+  Government : >-
+    Aroth is a constitutional monarchy, where the Basielus serves as both head of state as well as the
+    primarch of the Arothian faith. The Curia is a 347-member unicameral legislature which officially
+    _advises_ the Basielus and runs the common operation of the nation in their name. The Basielus may,
+    in a time of national crisis, be empowered by the Curia to act as an autocrat for a period of time
+    determined by the assembly.
+  Locations:
+    City of Aroth : >-
+      The eponymous city from antiquity. The City of Aroth has seen drastic periods of expansion, collapse,
+      rebuilding, invasion, sacking, and reconstruction, all of which have contributed to the drastic
+      anachronistic appearance, with millenia-old structures standing next to recent constructions in a
+      veritable labyrinth of alleyways, cobbled streets, paved avenues, walls, gates, bridges and tunnels.
+  Organizations:
+    Basielus of Aroth : >-
+      Monarch of the Kingdom. The current Basielus, Servius Veturius, ascended to the throne upon his
+      father's untimely death shortly after achieving majority.
 #  Diagrams :
 #    NAME : |
 #      ```
 #      ```
-#Culture :
-#  Description : >-
-#    TEXT
-#  CoreBeliefs :
-#    - LIST
+Culture :
+  Description : >-
+    Aroth is a highly militaristic and religious nation, with the Basielus acting as both head of state and 
+    head of the faith. Military service is a requirement for full citizenship, and Aroth boasts the largest
+    official military _and_ clergy per capita in Lanaroth, as all members of the armed forces are considered
+    members of the clergy, owing to Aroth's unique warrior-priest heritage. State functions are an equal mix of
+    religious service and military pageantry.
+    
+    
+    While Aroth is not a true theocracy, as the Curia and Basielus do not claim divine right, the Arothian
+    faith is inexorably intertwined with every aspect of the culture. The Arothian state employs thousands
+    of official Augurs, interpreters of omens and divine intent that advise and assist civic officials in
+    all aspects of governance and policy.
+  CoreBeliefs :
+    - Citizen Service
+    - Exalted Priesthood
+    - Warrior Culture
+    - Nationalistic Zeal
+    - Philosopher King
 #  Prejudices :
 #    - LIST
 #  Minorities :
@@ -65,12 +103,14 @@ GeneralInfo :
 #      TEXT
 #  Religion : >-
 #    TEXT
-#History :
+History :
 #  Description : >-
 #    TEXT
-#  Timeline :
-#    -
-#      Name : NAME
-#      Date : YEAR
-#      Description : >-
-#        TEXT
+  Timeline :
+    -
+      Name : Sack of Halendos
+      Date : 1425.01
+      Description : >-
+        The last capital city of Aroth, Halendos, is sacked and burned to the ground
+        by the Vosjot army. Marcus Placidus, Basielus of Aroth, is killed along with his
+        entire family, leaving no legitimate heirs.

@@ -25,6 +25,7 @@ Society :
     Local governments serve at the pleasure and direction of the central government, managing
     the day-to-day affairs of towns and cities in accordance with national edicts and laws.
     
+    
     Unlike the traditional monarchies that surround it, power is not vested in a single head
     of state or elected assembly, but rather in a three-person college known as the Supreme
     Judicial Tribunal, tasked with preserving the Commonwealth's cultural orthodoxy and
@@ -57,7 +58,36 @@ Society :
 #      ```
 Culture :
   Description : >-
-    TBD
+    <TBD - I would like you all to contribute some aspect of Commonwealth culture. What does it look
+    like? How do people view themselves here?>
+    
+    
+    Commonwealth culture is highly stratified, both by geography and by bloodline. 
+    
+    The old Iskaran aristocracy, those with verifiable lineage dating to the Arothian or Iskaran nobility for 
+    at least ten generations, largely enjoy greater social standing and opportunity as they are seen as the
+    custodians of Iskaran heritage and expected to act in accordance with their station. Known as Linea
+    (or Full Linea), the aristocracy holds the majority of Assembly positions and major merchant,
+    artisanal, and commercial ventures.
+    
+    
+    Iskaran-descendants without noble lineage or those of unconfirmed or dubious noble lineage, known as Par-Linea or
+    Half Linea, compose the majority of the population in major cities, particularly Velia, and are generally
+    afforded better education and opportunities, often with state and private subsidies. They form the majority
+    of the professional, artisanal, and mercantile class, and hold a minority of positions in the Assemblies.
+    
+    
+    Non-Iskarans, particularly those of foreign heritage or residing in the small towns and villages in 
+    the Iskaran countryside, are typically relegated to positions of manual or menial labor. They are significantly
+    underrepresented in the Assemblies compared to their proportional population despite repeated efforts to
+    nominate more Non-Linea delegates, particularly in the outlying regions.
+    
+    
+    Where the Kingdom of Iska fullheartedly embraced the notion that it was the true continuator state
+    for the Empire of Aroth, the Commonwealth is largely a rejection of Arothian heritage and a return
+    to what is considered traditional Iskaran identity. To this end, the Supreme Judicial Tribunal serves 
+    to preserve and promote Iskaran values through binding opinions and decisions that set the direction for 
+    the national and local assemblies, and permeate through to every aspect of the Commonwealth.
   CoreBeliefs :
     - Noblesse Oblige
     - Idealistic Foundation
@@ -77,9 +107,11 @@ Culture :
       raise clenched fists against society.
     - >-
       Your worth shall be determined by your peers, and by you, yourself. To the worthy, freedom.
-#  Heroes :
-#    NAME : >-
-#      TEXT
+  Heroes :
+    Canus Cassius : >-
+      Former Iskaran noble turned exile after accusations of having conspired to depose and
+      murder Pretender Queen Pyrrha. Founded the Commonwealth in 2151 after declining the 
+      Crown for himself.
 #  Villains :
 #    NAME : >-
 #      TEXT
@@ -97,9 +129,40 @@ History :
     and the series of pretenders unsuccessfully warring for legitimacy.
 
 
-#  Timeline :
-#    -
-#      Name : NAME
-#      Date : YEAR
-#      Description : >-
-#        TEXT
+    The Commonwealth was formally declared in 2151 by Canus Cassius, a former nobleman
+    who had been exiled in 2147 after being implicated in an assassiation attempt against
+    the then pretender to the crown, Pyrrha Duca. Canus and a sizeable majority of the
+    Red Cloaks would enter Velia to depose Florian Gregoras, last pretender to the Iskaran
+    Crown, after the latter imprisoned Canus' sister and younger brothers on fabricated
+    charges of conspiracy and treason.
+    
+    
+    Canus famously threw the Iskaran Crown into the Basilica pyre, declaring:
+    
+    
+    !!! quote
+        The old empires ruled according to ancient bloodlines thought to be infallible.
+        No more. Only the worthy shall lead...
+    
+    
+    Canus would charge the surviving Censors of the Curia with the task of reconciling
+    centuries of legal and cultural tradition to create the legal basis for the new
+    Commonwealth. This process would take a further tweleve years, resulting in the
+    creation of the Tribunal and the adoption of the collected documents and opinions
+    as the Commonwealth's Constitution.
+  Timeline :
+    -
+      Name : Commonwealth of Iska Declared
+      Date : 2151.05
+      Description : >-
+        Canus Cassius returns from exile in Sideiros and deposes Florian Gregoras.
+        He declines the Iskaran Crown, declares a Commonwealth on the steps of the
+        Basilica.
+    -
+      Name : Censors Deliver Final Judgement on Constitution
+      Date : 2163.08
+      Description : >-
+        The newly elevated Tribunes issue final judgement on the adoption of the
+        manifest of constitutional documents collected by the old Curia Censors.
+        The first members of the Assembly are sworn into office, nominated from
+        delegations sent from every city and town according to population.
