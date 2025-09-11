@@ -1,0 +1,33 @@
+---
+node : Settlements/The Commonwealth
+template : Location.md
+title : Kamynthos
+GeneralInfo :
+  Statistics :
+    Type : Village
+    Region : Lanaroth
+    Population : 415
+  Description : >-
+    A small village on the Iskaran-Arothian border, 3 kilometers removed from the
+    Exocos Odo, the primary roadway connecting Aroth and Velia. The town is primarily
+    agrarian, taking advantage of the warmer climate closer to Aroth.
+Geography :
+#  Description : >-
+#    TEXT
+  Features:
+    Kamynthos Shrine : >-
+      A small roofed shrine nestled in a rocky outcropping on the connecting road to the Exocos.
+      The altar depicts a multi-colored, two-tailed bird known locally as the Aeldra. Local legend 
+      holds that the rainbow at the end of a tempest is made up of the bird's molted feathers.
+#  Settlements:
+#    NAME : >-
+#      TEXT
+#History :
+#  Description : >-
+#    TEXT
+#  Timeline :
+#    -
+#      Name : NAME
+#      Date : YEAR
+#      Description : >-
+#        TEXT
