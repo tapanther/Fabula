@@ -61,7 +61,16 @@ Society :
   Organizations:
     Basielus of Aroth : >-
       Monarch of the Kingdom. The current Basielus, Servius Veturius, ascended to the throne upon his
-      father's untimely death shortly after achieving majority.
+      father's untimely death shortly after achieving majority. The title simultaneously refers to the
+      chief Augur as a ceremonial and spiritual position, and the head of the Arothian State, as the two
+      duties are considered indistinguishable.
+    State Augurs : >-
+      Persons gifted with the ability to read the prophetic signs in the natural world are typically
+      inducted into the position of State Augur, a title conferring vast supervisory and advisory 
+      power over civic and military matters. Serving as senior members of the clergy, Augurs can be
+      identified by the vibrant ceremonial garb of their positions, often incorporating vibrant tunics
+      and fabrics, feathers, beads, precious and semi-precious stones, sashes, belts, and tattoos. Each
+      Augur is given a ceremonial diadem as a symbol of their authority.
 #  Diagrams :
 #    NAME : |
 #      ```
@@ -101,8 +110,43 @@ Culture :
 #  Traditions :
 #    NAME : >-
 #      TEXT
-#  Religion : >-
-#    TEXT
+  Religion : >-
+    _See Ephonian Mysteries_
+    
+    
+    The Arothian religion is a pantheistic, syncretic, oracular tradition developed over
+    a millenia of Arothian exposure to various faiths, cultures, and traditions. As a pantheistic
+    religion, the Arothian Faith does not have a central, personified deity, but rather considers
+    the universe itself an immanent deity that directs its own propagation and creation. Personified
+    or natural deities in other cultures and traditions are seen as manifestations or interpretations 
+    of the universal divine, and thus not in conflict with the Arothian tradition. This has often led
+    to the syncretism, or incorporation, of local tradition into the Arothian Faith.
+    
+    
+    Collectively referred to as the Ephonian Mysteries, the central tenets of the Arothian
+    Faith hold that the universe is a divine symphony, a literal harmony reverberating throughout
+    the _immaterium_, or the empty void, from which all creation arises. These emergent entities,
+    whether a living being or otherwise inert object, in turn resonate with and affect the universal
+    harmony, and thus spring forth new emergent entities, creating a self-perpetuating, causal, and logical
+    chain of existence. 
+    
+    
+    As the universal harmony is composed of everything that has ever been, and
+    governs everything that will ever be, it is possible to deduce and predict the course of
+    the universal symphony by observing the echoes and reverberations as they express themselves
+    in the natural world. An impending unfavorable dissonance in the universal harmony, such as a great catastrophe
+    or natural disaster, will create its own dissonant resonance in every day phenomena, such as the
+    patterns of flying birds, the cracks in heated bones, the movements of the heavens, or even the
+    sequence of drawn cards or rolled dice. Similarly, future positive consonance, such as that arising
+    from a joyous or fortuitous event, will create its own distinct pattern that can be interpreted from
+    ordinary events. The closer the observer is to the site or location of the event, the stronger these 
+    resonances will be, and therefore the clearer the observable phenomena.
+    
+    
+    As a result, augury and divination play a central role in the Arothian Faith. Those who can divine
+    the universal resonances are held in the highest esteem, and are most often employed as official state 
+    Augurs tasked with ensuring the success and prosperity of the Arothian people and state. Chief among these
+    Augurs is the Basielus, who acts as the head of state and directs the nation as a whole.
 History :
 #  Description : >-
 #    TEXT
