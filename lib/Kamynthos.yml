@@ -11,9 +11,17 @@ GeneralInfo :
     A small village on the Iskaran-Arothian border, 3 kilometers removed from the
     Exocos Odo, the primary roadway connecting Aroth and Velia. The town is primarily
     agrarian, taking advantage of the warmer climate closer to Aroth.
+    
+    
+    The town center hosts a single main crossroads, primarily small shops serving the
+    communities needs, and a single inn that typically hosts the passing traders that
+    fill any supply gaps the village cannot manage on its own.
 Geography :
-#  Description : >-
-#    TEXT
+  Description : >-
+    Rolling green hills lie near a rocky outcropping, the village's proximity to the Berescaster Sea
+    gives it a temperate climate that is well suited to agriculture. The region is occasionally plagued 
+    by electrical storms that seem to strike out of nowhere, typically lasting a few hours before
+    dissipating.
   Features:
     Kamynthos Shrine : >-
       A small roofed shrine nestled in a rocky outcropping on the connecting road to the Exocos.

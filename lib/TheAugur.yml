@@ -1,0 +1,27 @@
+---
+node : NPC/Basileia of Aroth
+template : Character.md
+title : Gratian Constantinus
+Image: Gratian.jpg
+GeneralInfo :
+  Statistics :
+    Nationality : Arothian
+    Age : Early 20s
+  Traits :
+    - Lighthearted
+    - Detached
+    - Spiritual
+#  Description : >-
+#    TEXT
+Occupation :
+  Role : State Augur
+  Note : Awaiting official assignment by the Curia of Aroth
+  Location : Kamynthos
+Description : >-
+  Surprisingly young for the silver diadem, his fur bears the old scars of a presumably violent youth.
+  He is robed in a multitude of colors, evoking the dazzling aurora that is central to the Northern
+  religion. Every fold and pocket holds a token of his profession, and his paws bear the distinctive
+  stylized eye Bearer Marks of an Augur.
+#NotableEvents :
+#  TEXT : >-
+#    TEXT

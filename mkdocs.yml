@@ -30,12 +30,16 @@ markdown_extensions:
 nav:
   - Home : index.md
   - General :
+    - Bearer Marks : Marks.md
     - Timeline : Timeline.md
   - Major Powers :
     - Basileia of Aroth :
       - Basileia of Aroth : Aroth.md
     - The Commonwealth :
       - The Commonwealth : Commonwealth.md
+  - NPC :
+    - Basileia of Aroth :
+      - Gratian Constantinus : TheAugur.md
   - Settlements :
     - The Commonwealth :
       - Kamynthos : Kamynthos.md
@@ -43,4 +47,5 @@ nav:
   - Categories :
       - General : General.md
       - Major Powers : Major Powers.md
+      - NPC : NPC.md
       - Settlements : Settlements.md
