@@ -2,47 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://tapanther.github.io/Fabula/</loc>
-         <lastmod>2025-09-16</lastmod>
+         <lastmod>2025-09-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://tapanther.github.io/Fabula/Aroth/</loc>
-         <lastmod>2025-09-16</lastmod>
+         <lastmod>2025-09-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://tapanther.github.io/Fabula/Commonwealth/</loc>
-         <lastmod>2025-09-16</lastmod>
+         <lastmod>2025-09-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://tapanther.github.io/Fabula/General/</loc>
-         <lastmod>2025-09-16</lastmod>
+         <lastmod>2025-09-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://tapanther.github.io/Fabula/Kamynthos/</loc>
-         <lastmod>2025-09-16</lastmod>
+         <lastmod>2025-09-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://tapanther.github.io/Fabula/Major%20Powers/</loc>
-         <lastmod>2025-09-16</lastmod>
+         <lastmod>2025-09-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://tapanther.github.io/Fabula/Marks/</loc>
+         <lastmod>2025-09-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://tapanther.github.io/Fabula/NPC/</loc>
+         <lastmod>2025-09-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://tapanther.github.io/Fabula/Settlements/</loc>
-         <lastmod>2025-09-16</lastmod>
+         <lastmod>2025-09-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://tapanther.github.io/Fabula/TheAugur/</loc>
+         <lastmod>2025-09-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://tapanther.github.io/Fabula/Timeline/</loc>
-         <lastmod>2025-09-16</lastmod>
+         <lastmod>2025-09-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://tapanther.github.io/Fabula/Velia/</loc>
-         <lastmod>2025-09-16</lastmod>
+         <lastmod>2025-09-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
