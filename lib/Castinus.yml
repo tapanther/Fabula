@@ -1,0 +1,28 @@
+---
+node : NPC/The Commonwealth
+template : Character.md
+title : Palaelogus Castinus
+GeneralInfo :
+  Statistics :
+#    Race : TEXT
+    Age : Late 60s
+  Traits :
+    - Domineering
+    - Orthodox
+    - Grandiose
+#  Description : >-
+#    TEXT
+Occupation :
+  Role : Justice of the Tribunal
+#  Note : TEXT
+  Location : Velia
+Description : >-
+  A charismatic orator and a pillar of orthodoxy. Justice Castinus is best known as the
+  public face of the Tribunal, the senior member in a Triumvirate of supposed equals. His
+  ironfast determination to safeguard the Commonwealth's spiritual purity is equal parts
+  inspiring and and terrifying. He makes no secret of his distaste for change, though
+  he will uphold all of the Tribunal's decisions with the same ferocity, even if it
+  goes against his personal beliefs.
+#NotableEvents :
+#  TEXT : >-
+#    TEXT
