@@ -1,0 +1,57 @@
+---
+node : Settlements/The Commonwealth
+template : Location.md
+title : Cythamahos
+GeneralInfo :
+  Statistics :
+    Type : City
+    Region : Lanaroth
+    Population : 21298
+  Description : |-
+    The first major population center along the Exocos Odo, the primary road connecting the City of Aroth
+    to Velia. Besides the strong mercantile presence and its importance as a primary trade hub, the city is
+    notable for being one of the official registration centers for exiles wishing to participate in the Trials
+    of Absolution.
+    
+    Despite it's relatively small size, owing mostly due to the lack of available space due to geographical 
+    restrictions, Cythamahos has served as the seat of government and administration throughout the Arothian
+    and Iskan eras, hosting both the Curia Minor and the Local Assembly that replaced it, as well as being
+    the former seat of an Augur's diokesis.
+Geography :
+  Description : |-
+    The city is built at the cliff-side base of a strike ridge that diverts the Exocos. Natural hot springs
+    well up along the cliffisde, which attracted early settlers and traders weary from the journey between the
+    new and old capital of the Basileia. Other nearby hot springs give the administrative district its name, 
+    Thermespontos.
+    
+    To the south lies a mixed forest, nourished by the constant rainfall as humid air is forced upwards by the
+    gentle slope of the ridge opposite Cythamahos, cooling it and causing the water to precipitate out.
+  Features:
+    Aoroleios Ridge : >-
+      Dotted with natural hot springs, the cliff-side face of the ridge is said to _weep_ as thermal springs
+      seep out of the rock face. A number of bathhouses have been constructed along the cliffside, some going
+      as far as to offer artificially constructed pools high up on the cliff face to overlook the city.
+    Atarax Forest : >-
+      A mixed forest with dense underbrush to the south of the Aoroleios Ridge. The forest receives an inordinate
+      amount of precipitation thanks to the orographic lift provided by the ridgeline. It sits in contrast to the
+      otherwise sparse forestation along the Aroth-Iska border.
+    Cythamahos Diokesis : >-
+      The ancient forum that hosted the Arothian Augur and the Curia Minor for the old administrative district. The
+      forum now hosts the local Assembly and the various merchant guildhouse chapters.
+    Cythamahos Amphitheatre : >-
+      An open-air amphitheatre used by the local Assembly for various events and functions, ranging from
+      monthly games and races to the various stages of the Trials of Absolution.
+#  Settlements:
+#    NAME : >-
+#      TEXT
+History :
+#  Description : >-
+#    TEXT
+  Timeline :
+    -
+      Name : Cythamahos Founded
+      Date : 1301
+      Description : >-
+        Theophania Melodus is appointed Augur of Thermespontos by the Curia of Aroth. Melodus establishes
+        her diokesis in the settlement along the ridge base, known locally as Kyathamaos. She enters the
+        settlement name as Cythamahos in the civil register.
