@@ -1,0 +1,25 @@
+---
+node : NPC/Basileia of Aroth
+template : Character.md
+title : Mil Wulfa
+GeneralInfo :
+  Statistics :
+    Race : Wolf
+    Age : Late 40's
+  Traits :
+    - Brutish
+    - Quiet
+#  Description : >-
+#    TEXT
+Occupation :
+  Role : Captain of the Guard
+  Note : Assigned to Aurica Cinca
+  Location : Cythamahos
+Description : >-
+  A member of the Augur's Guard, currently assigned to Aurica. He was involved in a scandal involving Gratian's
+  adventures in Pyrgeria ("to the North"), where the young Augur was grievously injured by the Beast he was tracking,
+  apparently attempting to claim some of it's claws. Wulfa was later re-assigned to Aurica.
+NotableEvents :
+  The Aeldra : >-
+    Mil was part of the four-man guard carrying Gratian's palanquin. He should have been in Aurica's guard at the time,
+    and it remains unclear how he was able to accompany Gratian.

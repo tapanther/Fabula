@@ -1,0 +1,30 @@
+---
+node : Settlements/Basileia of Aroth
+template : Location.md
+title : Pyrgeria
+GeneralInfo :
+  Statistics :
+    Type : <Unknown>
+    Region : <Unknown>
+    Population : <Unknown>
+#  Description : >-
+#    TEXT
+#Geography :
+#  Description : >-
+#    TEXT
+#  Features:
+#    NAME : >-
+#      TEXT
+#  Settlements:
+#    NAME : >-
+#      TEXT
+History :
+  Description : >-
+    An Arothian settlement "to the North". It appears to have been host to a dangerous beast that severely injured
+    Gratian Constantinus
+#  Timeline :
+#    -
+#      Name : NAME
+#      Date : YEAR
+#      Description : >-
+#        TEXT

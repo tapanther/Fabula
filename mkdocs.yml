@@ -39,10 +39,19 @@ nav:
       - The Commonwealth : Commonwealth.md
   - NPC :
     - Basileia of Aroth :
-      - Gratian Constantinus : TheAugur.md
+      - Aurica Cinca : Aurica.md
+      - Gratian Constantinus : Gratian.md
+      - Mil Wulfa : Wulfa.md
     - The Commonwealth :
+      - Eudoxia Duca : Duca.md
+      - Goga Tsitsishvili : Tsitsishvili.md
+      - Goga Tzatziki : Tzatziki.md
+      - Mihaela Nicolae : Mihaela.md
       - Palaelogus Castinus : Castinus.md
+      - Pivovarov Lavro : Pivovarov.md
   - Settlements :
+    - Basileia of Aroth :
+      - Pyrgeria : Pyrgeria.md
     - The Commonwealth :
       - Cythamahos : Cythamahos.md
       - Kamynthos : Kamynthos.md

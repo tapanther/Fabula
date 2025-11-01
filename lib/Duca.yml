@@ -1,0 +1,26 @@
+---
+node : NPC/The Commonwealth
+template : Character.md
+title : Eudoxia Duca
+GeneralInfo :
+  Statistics :
+    Race : Ewe
+    Age : 43
+  Traits :
+    - Member of the Assembly
+    - Pragmatic
+#  Description : >-
+#    TEXT
+Occupation :
+  Role : Member of the Assembly
+#  Note :
+  Location : Cythamahos
+Description : |-
+  One of the Cythamahos Assemblymembers, and a political rival to Tsitsishvili. She is a pragmatic type, often
+  putting aside such petty notions as "rules", "regulations" or "bureaucracy" to get things done.
+  
+  She is interested in clearing out the Cythamahos Augur's Manor, which has fallen into ruin and disrepair
+  over the centuries.
+#NotableEvents :
+#  TEXT : >-
+#    TEXT

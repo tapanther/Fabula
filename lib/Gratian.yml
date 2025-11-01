@@ -3,6 +3,8 @@ node : NPC/Basileia of Aroth
 template : Character.md
 title : Gratian Constantinus
 Image: Gratian.jpg
+altLinks:
+  - Gratian
 GeneralInfo :
   Statistics :
     Nationality : Arothian
@@ -14,7 +16,7 @@ GeneralInfo :
 #  Description : >-
 #    TEXT
 Occupation :
-  Role : State Augur
+  Role : Arothian State Augur
   Note : Awaiting official assignment by the Curia of Aroth
   Location : Kamynthos
 Description : >-
@@ -23,6 +25,9 @@ Description : >-
   religion. Every fold and pocket holds a token of his profession, and his paws bear the distinctive
   stylized eye Bearer Marks of an Augur.
 NotableEvents :
+  The Aeldra : |-
+    Gratian traveled to Kamynthos, guarded by only a miniscule 4-person detachment, to track down and
+    acquire the Aeldra's feathers, the local mythical beast and quasi-natural spirit of the town.
   Prophesy to Minos : |-
     !!! quote 
         Child of calamity, Ruinbringer. Cut off from the life you were promised, forced to wander the
