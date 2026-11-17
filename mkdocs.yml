@@ -19,6 +19,7 @@ site_url: 'https://tapanther.github.io/Fabula/'
 
 markdown_extensions:
   - admonition
+  - pymdownx.details
   - toc:
       permalink: true
   - pymdownx.superfences :
@@ -32,9 +33,13 @@ nav:
   - General :
     - Bearer Marks : Marks.md
     - Timeline : Timeline.md
+    - Creatures :
+      - Doomwhale : Doomwhale.md
   - Major Powers :
     - Basileia of Aroth :
       - Basileia of Aroth : Aroth.md
+      - Government :
+        - Curia Omnipotentia : Curia.md
     - The Commonwealth :
       - The Commonwealth : Commonwealth.md
   - NPC :
@@ -55,6 +60,7 @@ nav:
     - The Commonwealth :
       - Cythamahos : Cythamahos.md
       - Kamynthos : Kamynthos.md
+      - Lampsonnos : Lampsonnos.md
       - Velia : Velia.md
   - Categories :
       - General : General.md

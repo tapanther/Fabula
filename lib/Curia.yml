@@ -1,0 +1,66 @@
+---
+node : Major Powers/Basileia of Aroth/Government
+template : Organization.md
+title : Curia Omnipotentia
+altLinks:
+  - Curia
+GeneralInfo :
+  Statistics :
+    Type : Unicameral Legislature
+    Membership : 347 (153 Augurs, 84 Praesides, 47 Magisters, 33 Legates, and 30 other Curialies)
+    Allegiance : Basileia of Aroth
+#  Description : |-
+
+#  Diagram : |
+#    ```
+#    ```
+Structure :
+#  Governance : >-
+#    TEXT
+  Locations :
+    Curia Exitiicetus : >-
+      The colloquial name from time immemorial of the soaring cathedral that hosts the assembly itself. The
+      name is an allusion to the Doomwhale that serves as the Empire's ubiquitous insignia, and perhaps an oblique
+      reference to the Curia's insatiable hunger for power.
+#  Members :
+#    NAME : >-
+#      TEXT
+#  Associations :
+#    NAME : >-
+#      TEXT
+#  Diagrams :
+#    NAME : |
+#      ```
+#      ```
+Culture :
+  Description : |-
+    The highest constituting asssembly of the Basileia, composed of a mix of State Augurs that act as
+    regional governors, their military counterparts, and a smattering of other prestigious positions
+    within the Empire.
+
+    The Curia is rarely assembled in whole, delegating the majority of mundane decision-making and administration
+    to a number of specially formed committees (Comitia). The Basileus may summon the 347-member body at will, most
+    commonly during times of national crisis or major reform.
+#  Values :
+#    - >-
+#      TEXT
+  Traditions :
+    Confirmatio Augurum : >-
+      The Confirmation of the Augur, a ceremony held to bestow a unique, ornamental diadem upon the crown of those
+      who've demonstrated a blessing of wisdom and prophesy, and proven themselves worthy of joining the ranks of
+      the Curia. As the Augurship is held for life, ascensions are rare generational occurrences.
+    Clamor Bellicus : >-
+      The formal declaration of war and call to arms, whereby the military members of the Curia are ceremonially
+      handed a symbolic mace to represent their unquestionable authority and mandate to scour the Basileia's enemies.
+      Though the weapons are largely decorative today, and the enemies more conceptual than existential threats, the
+      tradition is believed to have arisen from an apocryphal event where the Curiales smashed seats and tables apart
+      to use as makeshift weapons against an attempted sacking of the city.
+#History :
+#  Description : >-
+#    TEXT
+#  Timeline :
+#    -
+#      Name : NAME
+#      Date : YEAR
+#      Description : >-
+#        TEXT

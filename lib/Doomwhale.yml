@@ -1,0 +1,48 @@
+---
+node : General/Creatures
+template : Generic.md
+title : Doomwhale
+altLinks :
+  - Exitiicetus
+GeneralInfo :
+  Description: |-
+    The largest predator ever discovered, the Doomwhale shares little with the more placid common whales beyond their
+    immense size and voracious appetite. Reported sightings place these creatures spanning an enormous 35 to 50 meters,
+    though these claims are unsubstantiated.
+    
+    Though encounters with a Doomwhale are extremely rare, as these predators seldom bother with prey as small
+    as people, they have been known to swallow ships whole, leaving only a handful of fortunate survivors that managed
+    to jump ship before it disappeared into the titan's maw.
+#  Diagram : |
+#    ```
+#    ```
+Content:
+  -
+#    separate: BOOL
+#    Subtitle: TEXT
+    Title: Arothian Connection
+    Text: |-
+      The Basileia of Aroth adopted the Doomwhale as its sacred standard and supreme military emblem, representing
+      the unconquerable might of the Arothian State. Each legion is granted a silver Doomwhale standard upon its 
+      founding, the loss of which is grounds for dissolution. The standard-bearers, or "cetelifer", is considered
+      a position of enormous prestige and generally awarded to those who can be trusted to keep it safe above their
+      own lives.
+
+      The association between Aroth and the Doomwhale is noted by multiple individuals, in and out of Aroth, though
+      the latter tend to refer more to the threat posed by the Basileia's insatiable appetite for conquest and its
+      tendency to swallow nations whole.
+#    Diagram: |
+#      ```
+#      ```
+#    Table :
+#      "# - #" : TEXT
+#      Meta :
+#        Columns :
+#          - COL1
+#          - COL2
+#        Rows :
+#          -
+#            - ROW1COL1
+#            - ROW2COL2
+#Links :
+#  - LINK

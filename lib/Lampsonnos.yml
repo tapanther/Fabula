@@ -1,0 +1,34 @@
+---
+node : Settlements/The Commonwealth
+template : Location.md
+title : Lampsonnos
+GeneralInfo :
+  Statistics :
+    Type : City
+    Region : Lanaroth
+    Population : 19704
+  Description : |-
+    A regional capital within The Commonwealth's myriad of administrative districts. The city is centrally located
+    within the Ciminian Forest, and previously served as an Arothian provincial capital. Though the city does not
+    itself lay on the Exocos Odo, the primary Aroth-Iska trade route, it nevertheless controls the flow of goods
+    through the few well-maintained highways through the dense woods.
+Geography :
+#  Description : |-
+#    TEXT
+  Features:
+    Erechtheion : >-
+      The ruins of an ancient temple predating the Arothian Empire. Not much is known about this site beyond
+      the shattered stone statues found on the forest floor. The majority of the site remains unexcavated.
+  Settlements:
+    Kimmos : >-
+      A minor agricultural town in the valleys of the rolling hills to the northwest, known primarily for 
+      its wool exports.
+#History :
+#  Description : >-
+#    TEXT
+#  Timeline :
+#    -
+#      Name : NAME
+#      Date : YEAR
+#      Description : >-
+#        TEXT
