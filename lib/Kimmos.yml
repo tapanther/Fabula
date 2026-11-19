@@ -1,0 +1,46 @@
+---
+node : Settlements/The Commonwealth
+template : Location.md
+title : Kimmos
+GeneralInfo :
+  Statistics :
+    Type : Village
+    Region : Lanaroth
+    Population : 307
+  Description : |-
+    A small pastoral village on the outskirts of Lampsonnos. The town's primary export
+    is wool, mutton, and a number of minor fodder species.
+    
+    ??? warning "Spoiler"
+        Around 2197, the village experienced a masive surge in the floral density within
+        the village and many of the surrounding hills. Beds of wildflowers of varying colors
+        and species and an aggresive flowering vine began to appear throughout the region,
+        causing a minor increase in allergies and livestock illness for the residents.
+    
+       The town sent messengers to the Lampsonnos council requesting assistance, though
+       no official response has been issued. As the flowers do not seem to pose more than
+       a mild inconvenience, and efforts to eradicate them have proven both expensive and
+       unsuccessful, the residents have largely accepted the presence of the flowers as
+       simply a part of the local ecosystem.
+    
+       A cause for the surge has not been identified.
+Geography :
+  Description : >-
+    The majority of the village population lives on homesteads distributed throughout
+    the various hills of the region, with only a small central town containing markets
+    and the necessary token civic infrastructure.
+#  Features:
+#    NAME : >-
+#      TEXT
+#  Settlements:
+#    NAME : >-
+#      TEXT
+#History :
+#  Description : >-
+#    TEXT
+#  Timeline :
+#    -
+#      Name : NAME
+#      Date : YEAR
+#      Description : >-
+#        TEXT

@@ -35,11 +35,15 @@ nav:
     - Timeline : Timeline.md
     - Creatures :
       - Doomwhale : Doomwhale.md
+    - Flora :
+      - Silphium : Siplium.md
   - Major Powers :
     - Basileia of Aroth :
       - Basileia of Aroth : Aroth.md
       - Government :
         - Curia Omnipotentia : Curia.md
+    - Other Nations :
+      - Volfos : Volfos.md
     - The Commonwealth :
       - The Commonwealth : Commonwealth.md
   - NPC :
@@ -47,6 +51,7 @@ nav:
       - Aurica Cinca : Aurica.md
       - Gratian Constantinus : Gratian.md
       - Mil Wulfa : Wulfa.md
+      - Quintus Urgulanius Segestes : Quintus.md
     - The Commonwealth :
       - Eudoxia Duca : Duca.md
       - Goga Tsitsishvili : Tsitsishvili.md
@@ -56,11 +61,14 @@ nav:
       - Pivovarov Lavro : Pivovarov.md
   - Settlements :
     - Basileia of Aroth :
+      - City of Aroth : Aroth_City.md
       - Pyrgeria : Pyrgeria.md
     - The Commonwealth :
       - Cythamahos : Cythamahos.md
       - Kamynthos : Kamynthos.md
+      - Kimmos : Kimmos.md
       - Lampsonnos : Lampsonnos.md
+      - Sidiene : Sidiene.md
       - Velia : Velia.md
   - Categories :
       - General : General.md

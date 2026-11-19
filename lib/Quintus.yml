@@ -1,0 +1,32 @@
+---
+node : NPC/Basileia of Aroth
+template : Character.md
+title : Quintus Urgulanius Segestes
+altLinks:
+  - Quintus
+  - Praeside Segestes
+  - Praeside Quintus
+GeneralInfo :
+  Statistics :
+    Race : Human
+    Age : 38
+  Traits :
+    - Zealous
+    - Unwavering
+    - Intense
+  Description : |-
+    A Praeside, or regional military leader, within the Basileia of Aroth.
+    
+    ??? warning "Spoiler"
+        He has been chasing Gratian Constantinus, seemingly under order to arrest the Augur
+        and transport him before the Curia in Aroth. It is clear the two share a tumultuous
+        history.
+Occupation :
+  Role : Praeside of Aroth
+#  Note :
+  Location : Unknown
+#Description : >-
+#  TEXT
+#NotableEvents :
+#  TEXT : >-
+#    TEXT

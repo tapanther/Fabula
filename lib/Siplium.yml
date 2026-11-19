@@ -1,0 +1,45 @@
+---
+node : General/Flora
+template : Generic.md
+title : Silphium
+#altLinks :
+#  - LINK
+GeneralInfo :
+  Description: |-
+    Also known as Lasarpicium, this mythical floral species has been extinct for over 300 years.
+    Historical sources cite its demise to overharvesting combined with the plant's highly temperamental
+    nature and difficulty of cultivation.
+    
+    The plant has been sung about by Arothian poets and singers, and usable interchangeably in the place
+    of gold across numerous recorded instances.
+    
+    A number of culinary and medical uses have been ascribed to Silphium, from a palliative for minor
+    ailments to a local therapeutic for infection or inflammation, and features prominently in culinary
+    treatises as an essential aromatic in Tescian cuisine.
+#  Diagram : |
+#    ```
+#    ```
+Content:
+  -
+#    separate: BOOL
+#    Subtitle: TEXT
+    Title: Rumoured Specimens
+    Text: >-
+      It is rumoured that the last surviving specimens may be found in the Basileus' private gardens within
+      the Anaktoro. This rumour is unsubstantiated, as entry into the private wing of the palace is at the
+      Basileus' personal invitation only.
+#    Diagram: |
+#      ```
+#      ```
+#    Table :
+#      "# - #" : TEXT
+#      Meta :
+#        Columns :
+#          - COL1
+#          - COL2
+#        Rows :
+#          -
+#            - ROW1COL1
+#            - ROW2COL2
+#Links :
+#  - LINK

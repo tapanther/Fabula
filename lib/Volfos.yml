@@ -1,0 +1,70 @@
+---
+node : Major Powers/Other Nations
+template : Nation.md
+title : Volfos
+GeneralInfo :
+  Statistics :
+#    Population : NUM
+    Government : Decentralized Confederal Kingdoms
+    Region : Osall
+  Ethics :
+    - Stoicism
+    - Fiercely Independent
+    - Mercenary
+  Description : >-
+    Volfos is the name given to a loose confederation of petty kingdoms in the frigid tundras of
+    Northern Osall. Though technically independent, the kingdoms typically delegate foreign policy
+    matters on a decennial basis, nominating one of the constituent Konungs (petty kings) to represent
+    the confederation for a term of 10 years.
+#  Diagram : |
+#    ```
+#    ```
+#Society :
+#  Government : >-
+#    TEXT
+#  Locations:
+#    NAME : >-
+#      TEXT
+#  Organizations:
+#    NAME : >-
+#      TEXT
+#  Diagrams :
+#    NAME : |
+#      ```
+#      ```
+Culture :
+  Description : >-
+    The Volfan kingdoms have a reputation for isolationism, largely owing to their
+    location in the inhospitable north of Osall. Not much is known of their internal
+    culture, though Volfan expatriates as a whole tend to gravitate towards mercenary
+    companies and often act as elite bodyguards for government officials across
+    multiple nations.
+#  CoreBeliefs :
+#    - LIST
+#  Prejudices :
+#    - LIST
+#  Minorities :
+#    - LIST
+#  Values :
+#    - >-
+#      TEXT
+#  Heroes :
+#    NAME : >-
+#      TEXT
+#  Villains :
+#    NAME : >-
+#      TEXT
+#  Traditions :
+#    NAME : >-
+#      TEXT
+#  Religion : >-
+#    TEXT
+#History :
+#  Description : >-
+#    TEXT
+#  Timeline :
+#    -
+#      Name : NAME
+#      Date : YEAR
+#      Description : >-
+#        TEXT

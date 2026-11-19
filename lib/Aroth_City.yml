@@ -1,0 +1,59 @@
+---
+node : Settlements/Basileia of Aroth
+template : Location.md
+title : City of Aroth
+altLinks:
+  - Aroth (city)
+GeneralInfo :
+  Statistics :
+    Type : Capital City
+    Region : Lanaroth
+    Population : 1817000
+  Description : |-
+    !!! quote "All roads..."
+          _All roads lead to Aroth..._  
+
+          \-\- Unknown
+    
+    Aroth's history spans over 3 millenia, and is widely believed to be the longest
+    continuously inhabited settlement in Lanaroth, with ruins dating back well before
+    the establishment of the Basileia that bears its name. It is also the oldest capital
+    in Lanaroth, having been the seat of power for the various Arothian city and nation states
+    for over 2,000 years.
+    
+    Though the city's population has yet to reach the two million mark since the height of the Empire
+    circa 1215, it remains the single largest city within the Basileia's borders.
+Geography :
+  Description : |-
+    The city lies within the Itiri River Valley, approximately 24 km from the Sea of Theveste. The
+    valley's verdant sloping hills provide the city with a natural defensive border, and served as
+    a safe, elevated ground for early settlements against seasonal flooding.
+    
+    It is believed that a number of early settlements along the hilltops eventually coalesced into the
+    nascent Arothian City-State, providing a catalyst for the rapid urbanization and expansion as the 
+    settlements grew to border one another.
+    
+    The surrounding grasslands are periodically flooded by the Itiri, providing for a particularly
+    fertile ground that supported the city's historically massive population in ancient times.
+  Features:
+    Curia Exitiicetus : >-
+      The meeting hall of the Curia Omnipotentia, the highest constituting assembly of the Basileia.
+    Anaktoro : |-
+      The Imperial residence of the Basileus, composed of both public and private partitions.
+      The grounds include a small amphitheatre, multiple forums and a civic basilica, public
+      and private gardens, and two separate wings of living quarters, one for the Imperial Family
+      and the other for guests and dignitaries.
+      
+      The Basileus' private garden is rumoured to contain the sole remaining specimens of Silphium.
+#  Settlements:
+#    NAME : >-
+#      TEXT
+#History :
+#  Description : >-
+#    TEXT
+#  Timeline :
+#    -
+#      Name : NAME
+#      Date : YEAR
+#      Description : >-
+#        TEXT

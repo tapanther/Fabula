@@ -1,0 +1,35 @@
+---
+node : Settlements/The Commonwealth
+template : Location.md
+title : Sidiene
+GeneralInfo :
+  Statistics :
+    Type : Village
+    Region : Lanaroth
+    Population : 437
+  Description : |-
+    A small agricultural village near Cythamahos and a minor exporter of wine, vinegar, and grapes.
+    
+    ??? warning "Spoiler"
+        Travellers and traders passing through the area have reported strange rumblings ocurring
+        at unpredictable intervals, almost like the footfalls of a faraway leviathan. There are unconfirmed
+        reports of panicked livestock and broken amphora after a particularly strong tremor.
+Geography :
+  Description : >-
+    Located in the Iskan Iukreon province, the considerable fluctuations in temperature between
+    summer and winter create a freeze-thaw cycle that contributes to the region's renowned fertility.
+#  Features:
+#    NAME : >-
+#      TEXT
+#  Settlements:
+#    NAME : >-
+#      TEXT
+#History :
+#  Description : >-
+#    TEXT
+#  Timeline :
+#    -
+#      Name : NAME
+#      Date : YEAR
+#      Description : >-
+#        TEXT

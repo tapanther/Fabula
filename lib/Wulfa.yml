@@ -6,9 +6,11 @@ GeneralInfo :
   Statistics :
     Race : Wolf
     Age : Late 40's
+    Note : Speaks Volfan
   Traits :
     - Brutish
     - Quiet
+    - Devoted
 #  Description : >-
 #    TEXT
 Occupation :
@@ -20,6 +22,9 @@ Description : >-
   adventures in Pyrgeria ("to the North"), where the young Augur was grievously injured by the Beast he was tracking,
   apparently attempting to claim some of it's claws. Wulfa was later re-assigned to Aurica.
 NotableEvents :
-  The Aeldra : >-
-    Mil was part of the four-man guard carrying Gratian's palanquin. He should have been in Aurica's guard at the time,
-    and it remains unclear how he was able to accompany Gratian.
+  The Aeldra : |-
+    Mil was part of the four-man guard carrying Gratian's palanquin in Kamynthos. 
+    
+    ??? warning "Spoiler"
+        He should have been in Aurica's guard at the time,
+        and it remains unclear how he was able to accompany Gratian.
