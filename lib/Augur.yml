@@ -1,0 +1,66 @@
+---
+node : Organization/Basileia of Aroth
+template : Organization.md
+title : Arothian State Augurs
+altLinks:
+  - Augurs
+  - Diademmed Intendant
+  - Arothian Governor
+GeneralInfo :
+  Statistics :
+    Type : Ordained Priesthood, Regional Governors
+    Membership : 153
+    Allegiance : Basileia of Aroth
+  Description : >-
+    State Augur is the highest civil and spiritual title within the Basileia of Aroth, second only in prestige
+    to the Basileus themselves. Note that while other ranks of augur as a prophetic and spiritual leader exist within 
+    the Basileia, and indeed elsewhere in the known world, it is the Diademed Intendants that are typically referred 
+    to as Augurs (capitalized).
+#  Diagram : |
+#    ```
+#    ```
+Structure :
+  Governance : >-
+    The Curia Omnipotentia has sole supervisory authority over its member State Augurs. By tradition, the non-ordained
+    Curia members abstain from deliberations regarding a constituent member, in deference to the Augurs' temporal and
+    spiritual roles within the Basileia.
+  Locations :
+    City of Aroth : |-
+      The Augurs constitute a little under half of the Curia Omnipotentia's membership (the nation's sovereign
+      assembly), with about an equal measure of regional military leaders (Praesides, Magisters, and Legates).
+    Vindonnissa : |-
+      A border city along the main trade route between the Basileia and Iska, and the regional Augural seat.
+  Members :
+    Aurica Cinca : >-
+      State Augur of Vindonnissa
+    Gratian Constantinus : >-
+      State Augur, unknown Augural Seat.
+#  Associations :
+#    NAME : >-
+#      TEXT
+#  Diagrams :
+#    NAME : |
+#      ```
+#      ```
+Culture :
+  Description : >-
+    The Arothian State Augurs form the highest echelon of the civil government, serving as regional governors for the
+    Basileia's provinces, as well as overseeing the lesser Novice and Adept augurs and seers that serve in primarily
+    spiritual positions as ministers within the traditions of the Ephorian Mysteries.
+#  Values :
+#    - >-
+#      TEXT
+  Traditions :
+    Confirmatio Augurum: >-
+      The Confirmation of the Augur, a ceremony held to bestow a unique, ornamental diadem upon the crown of those
+      who've demonstrated a blessing of wisdom and prophesy, and proven themselves worthy of joining the ranks of
+      the Curia. As the Augurship is held for life, ascensions are rare generational occurrences.
+#History :
+#  Description : >-
+#    TEXT
+#  Timeline :
+#    -
+#      Name : NAME
+#      Date : YEAR
+#      Description : >-
+#        TEXT

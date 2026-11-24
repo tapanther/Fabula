@@ -1,0 +1,33 @@
+---
+node : Settlements/Basileia of Aroth
+template : Location.md
+title : Vindonnissa
+GeneralInfo :
+  Statistics :
+    Type : City
+    Region : Lanaroth
+    Population : 72,182
+  Description : >-
+    Vindonissa proper is the last major trade hub on the Arothian side of the border along the Exocos Odo,
+    and the last major settlement before Cythamahos, though its true claim to fame lies in the sprawling
+    vineyards and wineries that cater to royal courts worldwide.
+Geography :
+  Description : >-
+    The rocky soil of the valleys of Vindonnissa are particularly well suited to growing full-bodied red grapes,
+    as the soil both soaks up the daytime heat to warm up the vines, and drains quickly to prevent frost in the cool
+    nights.
+  Features:
+    Vindonnissan Augurate : >-
+      Vindonissa is a regional Augural seat. Aurica Cinca is the current Diademed Intendant for the region.
+#  Settlements:
+#    NAME : >-
+#      TEXT
+#History :
+#  Description : >-
+#    TEXT
+#  Timeline :
+#    -
+#      Name : NAME
+#      Date : YEAR
+#      Description : >-
+#        TEXT

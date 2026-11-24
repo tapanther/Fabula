@@ -59,10 +59,14 @@ nav:
       - Mihaela Nicolae : Mihaela.md
       - Palaelogus Castinus : Castinus.md
       - Pivovarov Lavro : Pivovarov.md
+  - Organization :
+    - Basileia of Aroth :
+      - Arothian State Augurs : Augur.md
   - Settlements :
     - Basileia of Aroth :
       - City of Aroth : Aroth_City.md
       - Pyrgeria : Pyrgeria.md
+      - Vindonnissa : Vindonnissa.md
     - The Commonwealth :
       - Cythamahos : Cythamahos.md
       - Kamynthos : Kamynthos.md
@@ -74,4 +78,5 @@ nav:
       - General : General.md
       - Major Powers : Major Powers.md
       - NPC : NPC.md
+      - Organization : Organization.md
       - Settlements : Settlements.md
